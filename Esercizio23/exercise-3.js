@@ -1,6 +1,5 @@
 function isAdult(person) {
-  let age;
-  [id, firstName, lastName, age] = [1, "Mario", "Rossi", 25]
+  const {id, firstName, lastName, age} = person;
   return age >= 18; 
 }
 

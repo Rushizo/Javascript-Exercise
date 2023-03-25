@@ -7,3 +7,5 @@ function multiplyByTwo(value) {
 }
 
 console.log(multiplyByTwo(5)());
+
+

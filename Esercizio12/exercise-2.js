@@ -19,3 +19,5 @@ const persons = [
 const nicknames = nicknameMap(persons);
 console.log(persons);
 console.log(nicknames);
+
+// scorre ogni elemento dell'array ed esegue la callback e crea un altro array (Item, index, array)

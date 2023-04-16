@@ -6,4 +6,4 @@ const user = {
 
 localStorage.setItem("user", JSON.stringify(user))
 
-console.dir(JSON.parse(localStorage.user))
+console.log(JSON.parse(localStorage.user))
